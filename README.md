@@ -9,4 +9,4 @@ Persistent Storage: Integrated LocalStorage ensures that all staff data and task
 
 Global Theme System: A custom React Context implementation provides a seamless Dark Mode experience, allowing users to toggle themes across the entire dashboard instantly.
 
-Optimized UI: Features a paginated API directory, real-time search filtering, and a responsive grid layout that adapts perfectly from mobile devices to ultra-wide monitors.
+Optimized UI: Features a paginated API directory, real-time search filtering, and a responsive grid layout that adapts perfectly from mobile devices to ultra-wide monitors.<img width="1760" height="903" alt="Screenshot 2025-12-25 181408" src="https://github.com/user-attachments/assets/50c1b558-e8dd-432e-bc61-1ae811e04a08" />
